@@ -30,6 +30,7 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 <img width="420" height="192" alt="image" src="https://github.com/user-attachments/assets/d4c5ec68-dc75-4ebc-9c93-b64c59d7c1fd" />
 
 **Image : Watches_gifts Revenue Monthly**
+
 2. **Maximizing watches_gifts product category:** Focus the marketing and promotion into watches_gifts product. Watches_gifts product category have second most of revenue despite ranked seventh in order count, also watches_gifts product's revenue are still growing until July 2018 unlike other categories that stop to grow.
 3. **Maintain the center focus on Sao Paulo:** Keep the ads campaign and marketing relevant/focus to trends that are happening around these regions. 
 ---
