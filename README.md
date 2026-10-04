@@ -15,7 +15,7 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ## 🚀 Dashboard Pages & Key Features
 
 ### 1. 🌐 Overview Page
-![Overview Dashboard Preview](./Overview.png)
+![Overview Dashboard Preview](./Visual/Overview.png)
 
 * **Features:** Executive KPI Summary Cards, Revenue & Order Growth (`Revenue Monthly`), Product Category Matrix (`Revenue and Items sold by Product Category`), Geographic Distribution (`Revenue of each States in Brazil`):
 
@@ -34,7 +34,7 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ---
 
 ### 2. 💰 Revenue Page
-![Overview Dashboard Preview](./Revenue.png)
+![Overview Dashboard Preview](./Visual/Revenue.png)
 * **Features:** Filtered by Month-Year, Granular Financial KPI MoM, Trending Products by Payment Type, Top Customers & States, Key Findings. 
 
 ## 💡 Key Business Insights
@@ -52,7 +52,7 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ---
 
 ### 3. 🚚 Delivery & Logistics Page
-![Overview Dashboard Preview](./Delivery.png)
+![Overview Dashboard Preview](./Visual/Delivery.png)
 * **Features:** Filtered by Month-Year, Deiveries KPI MoM, Average, Top Customers & States, Key Findings. 
 
 ## 💡 Key Business Insights
