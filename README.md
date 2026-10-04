@@ -15,9 +15,8 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ## 🚀 Dashboard Pages & Key Features
 
 ### 1. 🌐 Overview Page
+* **Features:** Executive KPI Summary Cards, Revenue & Order Growth (`Revenue Monthly`), Product Category Matrix (`Revenue and Items sold by Product Category`), Geographic Distribution (`Revenue of each States in Brazil`)
 ![Overview Dashboard Preview](./Visual/Overview.png)
-
-* **Features:** Executive KPI Summary Cards, Revenue & Order Growth (`Revenue Monthly`), Product Category Matrix (`Revenue and Items sold by Product Category`), Geographic Distribution (`Revenue of each States in Brazil`):
 
 ## 💡 Key Business Insights
 1. **Lack of Recurrence Customers:** From Total order count of 99.4k there are only 96.1k customers, that mean only 3.3k (3%) repeat orders from customers.
@@ -36,8 +35,9 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ---
 
 ### 2. 💰 Revenue Page
-![Overview Dashboard Preview](./Visual/Revenue.png)
 * **Features:** Filtered by Month-Year, Granular Financial KPI MoM, Trending Products by Payment Type, Top Customers & States, Key Findings. 
+![Overview Dashboard Preview](./Visual/Revenue.png)
+
 
 ## 💡 Key Business Insights
 1. **Revenue on Black Friday November:** Total Revenue Monthly increased 53.3% on Nov 2017 compared to Oct 2017, the sudden increase possibily from Black Friday and need to be analyzed deeper.
@@ -54,8 +54,9 @@ This analytic uses Olist's Data, an E-commerce in Brazil with period 2016-2018 s
 ---
 
 ### 3. 🚚 Delivery & Logistics Page
-![Overview Dashboard Preview](./Visual/Delivery.png)
 * **Features:** Filtered by Month-Year, Deiveries KPI MoM, Average, Top Customers & States, Key Findings. 
+
+![Overview Dashboard Preview](./Visual/Delivery.png)
 
 ## 💡 Key Business Insights
 1. **Review Score is Affected by Late Deliveries :** Positive reviews (4-5) drops from 74% to 15% between the first day and seventh day late deliveries
